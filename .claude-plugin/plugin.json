@@ -1,0 +1,11 @@
+{
+  "name": "medios",
+  "version": "1.0.0",
+  "description": "Ecosistema informativo argentino: agenda del dia, cobertura comparada por medio, verificacion de afirmaciones y contexto historico de noticias",
+  "skills": [
+    {
+      "name": "medios",
+      "path": "skills/medios/SKILL.md"
+    }
+  ]
+}
