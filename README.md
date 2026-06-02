@@ -1,6 +1,6 @@
 # medios
 
-Plugin de Claude Code — ecosistema informativo argentino.
+Compatible con **Claude Code** y **OpenAI Codex** — ecosistema informativo argentino.
 
 ## Que hace
 
@@ -10,6 +10,16 @@ Plugin de Claude Code — ecosistema informativo argentino.
 
 ```bash
 claude --plugin-dir /ruta/a/medios
+```
+
+### OpenAI Codex
+
+No requiere instalación. Codex lee `AGENTS.md` automáticamente al abrirse en este directorio.
+
+```bash
+git clone https://github.com/kvothesson/medios ~/medios
+cd ~/medios
+codex
 ```
 
 ## Comandos y ejemplos
