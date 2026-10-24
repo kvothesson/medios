@@ -1,11 +1,12 @@
 {
   "name": "medios",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Ecosistema informativo argentino: agenda del dia, cobertura comparada por medio, verificacion de afirmaciones y contexto historico de noticias",
-  "skills": [
-    {
-      "name": "medios",
-      "path": "skills/medios/SKILL.md"
-    }
-  ]
+  "author": {
+    "name": "Kvothesson",
+    "url": "https://github.com/kvothesson"
+  },
+  "homepage": "https://github.com/kvothesson/medios",
+  "repository": "https://github.com/kvothesson/medios",
+  "license": "MIT"
 }
